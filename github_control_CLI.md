@@ -59,7 +59,7 @@ Create repository(any name for ex- demo-repo) \
 >> git commit -m 'any messages'\
 \
 # git push change to github server and you will get link of pull request. Click on it  ,pull request,merge, delete\
->> git push -u origin/HEAD\
+>> git push -u origin HEAD\
 \
 \
 # to sync your local repo with github server main branch\
